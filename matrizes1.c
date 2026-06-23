@@ -17,7 +17,7 @@ int main()
     matriz[0][0] = 1;
     matriz[1][1] = 1;
     matriz[2][2] = 1;
-    matriz[3][3] = 1
+    matriz[3][3] = 1;
 
     printf("Matriz:\n");
 
